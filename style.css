@@ -17,7 +17,7 @@
 }
 
 body{
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(241, 241, 149);
 }
 @media only screen and (max-width: 600px) {
   body {
